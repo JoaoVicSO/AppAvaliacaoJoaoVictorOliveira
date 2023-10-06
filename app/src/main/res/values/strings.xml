@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App Avaliação João Victor Oliveira</string>
+    <string name="TextViewCadastro">Cadastro</string>
+
+    <string name="TextViewNome">Nome</string>
+    <string name="TextViewData">Data</string>
+    <string name="TextViewLocal">Local</string>
+    <string name="TextViewHorario">Horário</string>
+
+    <string name="EditTextNome">Informe o Nome:</string>
+    <string name="EditTextData">Informe a Data:</string>
+    <string name="EditTextLocal">Informe o Local:</string>
+    <string name="EditTextHorario">Informe o Horário:</string>
+
+    <string name="ButtonCadastrar">Enviar</string>
+</resources>
